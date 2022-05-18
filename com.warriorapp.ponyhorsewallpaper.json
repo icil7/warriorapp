@@ -1,11 +1,11 @@
 {
   "redirect" : {
 
-"JSON_POPUP_WAIT" : "Server Ready - v20j15",
+"JSON_POPUP_WAIT" : "Server Warriorapp ready to start",
 
 "TOAST_NOTIF" : false,
 
-"MODE_NO_ADS" : false,
+"MODE_NO_ADS" : true,
 "MODE_BACKUP_ADS" : true,
 
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
@@ -28,7 +28,7 @@
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
-"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
 
 "ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
 "ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
@@ -61,20 +61,18 @@
 "BUTTON_START" : "START",
 
 "EXIT_POPUP_DIALOG" : "
-jika kamu menikmati aplikasi ini
+help give us a 5 starts rating
 
-bantu kami dengan rating bintang 5 ya
-
-klik tombol rating
+So we keep the spirit of providing the latest updates
 
 ",
 "RATE_BUTTON" : "RATING 5 STARS",
 "LATER_BUTTON" : "LATER",
 "ENABLE_SHARE_BUTTON" : true,
 "SHARE_TXT" : "
-wah aplikasi ini bagus banget
-aku udah nyobain 
-coba deh kamu donwload sekrang juga
+Wow this app is really good
+I_ve tried 
+Try to download now too
 
 ",
 "MORE_BUTTON" : "SHARE VIA WHATSAPP",
